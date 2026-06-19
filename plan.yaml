@@ -1,0 +1,69 @@
+module: stress-and-energy
+goal_node: 06-evaluating-health-claims
+created_on: 2026-06-18
+learner_state: |
+  Starting from scratch — no prior biology background assumed.
+  Motivated by evaluating a specific health article about stress and fatigue.
+  Goal is research literacy: enough schema to navigate primary literature and
+  evaluate health claims independently. Not pursuing clinical knowledge or
+  dietary application. Single-session module with a one-week spaced review email.
+
+nodes:
+  - id: 01-atp-and-cellular-energy
+    prereqs: []
+    enables: [02-stress-response-anatomy]
+    tier: schema-heavy
+    fluency_spec: null
+    schema_exercises: 4
+    metacog: [explanation, transfer, connection]
+
+  - id: 02-stress-response-anatomy
+    prereqs: [01-atp-and-cellular-energy]
+    enables: [03-acute-vs-chronic-stress, 05-cortisol-downstream]
+    tier: schema-heavy
+    fluency_spec: null
+    schema_exercises: 4
+    metacog: [explanation, transfer, connection]
+
+  - id: 03-acute-vs-chronic-stress
+    prereqs: [02-stress-response-anatomy]
+    enables: [04-allostatic-load, 05-cortisol-downstream]
+    tier: schema-heavy
+    fluency_spec: null
+    schema_exercises: 4
+    metacog: [explanation, transfer, connection]
+
+  - id: 05-cortisol-downstream
+    prereqs: [02-stress-response-anatomy, 03-acute-vs-chronic-stress]
+    enables: [04-allostatic-load]
+    tier: schema-heavy
+    fluency_spec: null
+    schema_exercises: 4
+    metacog: [explanation, transfer, connection]
+
+  - id: 04-allostatic-load
+    prereqs: [03-acute-vs-chronic-stress, 05-cortisol-downstream]
+    enables: [06-evaluating-health-claims]
+    tier: schema-heavy
+    fluency_spec: null
+    schema_exercises: 4
+    metacog: [explanation, transfer, connection]
+
+  - id: 06-evaluating-health-claims
+    prereqs: [04-allostatic-load]
+    enables: []
+    tier: schema-heavy
+    fluency_spec: null
+    schema_exercises: 4
+    metacog: [explanation, transfer, connection]
+
+external_prereqs:
+  - no formal prerequisites — entry-level module
+
+cadence: null   # single-session; spaced review via email, not schedule subcommand
+
+review_policy:
+  spacing: [7]   # one review email at 7 days post-session
+  format: email  # questions email + answers email, drafted manually after session
+
+sessions: []

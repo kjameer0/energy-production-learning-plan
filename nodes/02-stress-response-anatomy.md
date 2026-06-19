@@ -1,0 +1,43 @@
+# 02 — Stress Response Anatomy
+
+## Prereqs
+- [[01-atp-and-cellular-energy]]
+
+## Enables
+- [[03-acute-vs-chronic-stress]]
+- [[05-cortisol-downstream]]
+
+## What this node is
+
+The anatomical and hormonal machinery of the stress response — specifically the two branches that activate when you perceive a threat: the fast branch (sympathetic nervous system → adrenaline) and the slow branch (HPA axis → cortisol). This is the node that makes the rest of the module functional: allostatic load, downstream effects, and health claim evaluation all require knowing this system.
+
+## Sources
+
+- **Primary:** Sapolsky, *Why Zebras Don't Get Ulcers* (3rd ed.)
+  - **Chapter 1** — "Why Don't Zebras Get Ulcers?" Sets up the whole framework: what the stress response is for, why it works for zebras, why it doesn't work for humans in the same way.
+  - **Chapter 2** — "Glands, Gooseflesh, and Hormones." The anatomy: hypothalamus, pituitary, adrenal glands (the HPA axis), and the sympathetic nervous system. Introduces cortisol and adrenaline.
+  Estimated time: 50–70 minutes for both chapters.
+
+- **NOTE:** Chapter quotes to be added after PDF extraction is available. Read the chapters in full — Sapolsky is unusually readable for a scientist.
+
+## Fluency exercises
+
+Fluency-light node — schema only. See exercises below.
+
+## Schema-building exercises
+
+1. **Map the two branches.** Draw or describe the two branches of the stress response from perception of a threat to hormonal output. For each branch: where does it start, what is the primary hormone it produces, and how fast does it act? You should be able to do this without looking at the source.
+
+2. **Why two branches?** The fast branch (adrenaline) and slow branch (cortisol) have different timescales. What does each one accomplish that the other can't? Why would a system evolving under predation pressure need both?
+
+3. **The HPA axis unpacked.** "HPA" stands for hypothalamic-pituitary-adrenal. Explain what each of those three structures does in the chain, and why a three-step relay exists rather than the hypothalamus directly triggering cortisol release.
+
+4. **Zebra vs. human.** Sapolsky's central setup is that a zebra's stress response is well-suited to its threats and a human's isn't. Explain the mismatch in your own words. What specifically about human cognition makes the stress response misfire?
+
+## Metacog checks
+
+Run these before advancing to node 03.
+
+- **Explanation**: Can you explain what the HPA axis is and what cortisol does in the acute stress response, without looking at the source?
+- **Transfer**: A person has a tumor on their pituitary gland that causes it to constantly secrete its signaling hormone. What would you expect to happen downstream — and what would the person probably feel?
+- **Connection**: How does the stress response connect to node 01? Specifically: what is being "mobilized" at the cellular level when cortisol and adrenaline enter the bloodstream?
