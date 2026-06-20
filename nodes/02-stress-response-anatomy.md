@@ -18,7 +18,28 @@ The anatomical and hormonal machinery of the stress response — specifically th
   - **Chapter 2** — "Glands, Gooseflesh, and Hormones." The anatomy: hypothalamus, pituitary, adrenal glands (the HPA axis), and the sympathetic nervous system. Introduces cortisol and adrenaline.
   Estimated time: 50–70 minutes for both chapters.
 
-- **NOTE:** Chapter quotes to be added after PDF extraction is available. Read the chapters in full — Sapolsky is unusually readable for a scientist.
+  **Key passages to anchor your reading:**
+
+  *Chapter 1 — the central thesis:*
+  > "This is the critical point of this book: if you are that zebra running for your life, or that lion sprinting for your meal, your body's physiological response mechanisms are superbly adapted for dealing with such short-term physical emergencies... stress-related disease emerges, predominantly, out of the fact that we so often activate a physiological system that has evolved for responding to acute physical emergencies, but we turn it on for months on end, worrying about mortgages, relationships, and promotions." (p. 7)
+
+  *Chapter 1 — on definitions:*
+  > "A stressor is anything in the outside world that knocks you out of homeostatic balance, and the stress-response is what your body does to reestablish homeostasis." (p. 7)
+
+  *Chapter 1 — the key inversion:*
+  > "The stress-response can become more damaging than the stressor itself, especially when the stress is purely psychological." (p. 10)
+
+  *Chapter 1 — what makes humans different:*
+  > "We humans live well enough and long enough, and are smart enough, to generate all sorts of stressful events purely in our heads." (p. 6)
+
+  *Chapter 2 — the HPA axis in one paragraph:*
+  > "When something stressful happens or you think a stressful thought, the hypothalamus secretes an array of releasing hormones... The principal such releaser is called CRH (corticotropin releasing hormone)... Within fifteen seconds or so, CRH triggers the pituitary to release the hormone ACTH... After ACTH is released into the bloodstream, it reaches the adrenal gland and, within a few minutes, triggers glucocorticoid release." (p. 19)
+
+  *Chapter 2 — the two branches compared:*
+  > "Epinephrine acts within seconds; glucocorticoids back this activity up over the course of minutes or hours." (p. 18)
+
+  *Chapter 2 — what the sympathetic system does:*
+  > "The sympathetic nervous system kicks into action during emergencies... It helps mediate vigilance, arousal, activation, mobilization." (p. 14)
 
 ## Fluency exercises
 
