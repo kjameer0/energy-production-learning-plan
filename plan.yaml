@@ -66,4 +66,9 @@ review_policy:
   spacing: [7]   # one review email at 7 days post-session
   format: email  # questions email + answers email, drafted manually after session
 
-sessions: []
+sessions:
+  - id: session-01
+    type: node-schema
+    nodes: [01-atp-and-cellular-energy]
+    completed_on: 2026-06-19
+    log: schedule/logs/session-01.md
